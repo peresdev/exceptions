@@ -1,4 +1,2 @@
-# thread-synchronization
+# Exceptions C#
 Exceptions C#
-
-## Lock, Monitor, Manual Reset Event, Auto Reset Event, Mutex, Semaphore, SemaphoreSlim
